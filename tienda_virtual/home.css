@@ -10,10 +10,10 @@ body {
 
 h1 {
   color: hsla(0, 0%, 0%, .9);
-  font: normal 120px Varela Round, sans-serif;
+  font: italic 120px Varela Round, serif;
   height: 200px;
   left: 0;
-  letter-spacing: 70px;
+  letter-spacing: 28px;
   margin: -80px 0 0 0;
   position: absolute;
   text-align: center;
