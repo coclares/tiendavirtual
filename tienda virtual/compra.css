@@ -1,0 +1,36 @@
+.row{
+    color: rgb(0, 255, 21);
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 180px;
+    margin-left: 690px;
+
+}
+.credito{
+    margin-left: 180px;
+    width: 190px;
+    border-color: rgb(255, 12, 154);
+    border-style:double;
+    border-width: 18px;
+    margin-top: -100px;
+}
+.billetes{
+    width: 190px;
+    border-color: rgb(255, 12, 154);
+    border-style:double;
+    border-width: 18px;
+    margin-top: -100px;
+}
+.bttcredito{
+    margin-left: 190px;
+}
+.cancelar{
+    margin-left: 560px;
+}
+.pago{
+    margin-left: 100px;
+    font-size: 40px;
+    color: rgb(87, 255, 21);
+}

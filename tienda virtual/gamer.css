@@ -1,0 +1,25 @@
+body{
+background-attachment: fixed;
+}
+.list-group{
+    width: 180px;
+    margin-top: 187px;
+    border-color: rgb(21, 255, 0);
+   border-style:double;
+   border-width: 18px;
+   
+}
+
+.carrusel{
+   margin: -18em auto 2em;
+   height: 427px;
+   width: 427px;
+   border-color: rgb(21, 255, 0);
+   border-style:double;
+   border-width: 18px;
+   
+   
+}
+header{
+    color: lawngreen;
+}

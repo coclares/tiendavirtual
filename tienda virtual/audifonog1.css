@@ -1,0 +1,41 @@
+.audifonos1{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: -80px;
+
+}
+.audifonoscat{
+    width: 420px;
+    border-color: rgb(21, 255, 0);
+   border-style:double;
+   border-width: 18px;
+}
+.bttcomprar{
+    margin-left: 820px;
+    margin-top: -110px;
+}
+.descripcion{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 49px;
+    margin-left: 700px;
+    margin-top: -290px;
+}
+.bttvolver{
+    margin-left: 1090px;
+    margin-top: 210px;
+}
+.carrito{
+    margin-left: 1170px;
+    margin-top: -40px;
+    color: rgb(87, 255, 21);
+}
+.boton{
+    margin-left: -180px;
+    margin-top: 0px;
+    color: rgb(87, 255, 21);
+}
+
