@@ -1,0 +1,59 @@
+body{
+    background-attachment: fixed;
+    
+}
+
+.carrito{
+    margin-left: 1170px;
+    margin-top: -40px;
+    color: rgb(87, 255, 21);
+}
+.boton{
+    margin-left: -180px;
+    margin-top: -40px;
+    color: rgb(87, 255, 21);
+}
+.carro1{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+}
+.carrocat{
+    width: 170px;
+    border-color: rgb(69, 255, 12);
+    border-style:double;
+    border-width: 10px;
+}
+.menu{
+    margin-left: 400px;
+    margin-top: -80px;
+    color: rgb(87, 255, 21);
+    
+}
+.descripcion{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 400px;
+    margin-top: -60px;
+}
+.descripcionsku{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 400px;
+    margin-top: -60px;
+}
+.botonC{
+    margin-left: 880px;
+    margin-top: 40px;
+    color: rgb(87, 255, 21);
+}
+.botonS{
+    margin-left: 880px;
+    margin-top: 40px;
+    color: rgb(87, 255, 21);
+}

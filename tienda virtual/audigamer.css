@@ -1,0 +1,23 @@
+body{
+    background-attachment: fixed;
+}
+
+.audifonos{
+    width: 190px;
+    border-color: rgb(255, 12, 154);
+    border-style:double;
+    border-width: 18px;
+    
+}
+.row{
+    color: rgb(0, 255, 21);
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+
+}
+.bttvolver{
+    margin-left: 1090px;
+    margin-top: -40px;
+}

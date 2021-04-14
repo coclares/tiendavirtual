@@ -1,0 +1,60 @@
+.compra1{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 40px;
+    
+}
+.compra2{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -349px;
+    
+}
+.datos{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.botoni{
+    margin-left: 120px;
+    margin-top: 40px;
+    color: rgb(87, 255, 21);
+}
+.botonr{
+    margin-left: 380px;
+    margin-top: -38px;
+    color: rgb(87, 255, 21);
+}
+.contra1{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 200px;
+    
+}
+.container{
+    color: rgb(6, 255, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 88px;
+   
+}
+.botonsr{
+    margin-left: 860px;
+    margin-top: 48px;
+    color: rgb(87, 255, 21);
+}
+.botonsV{
+    margin-left: 660px;
+    margin-top: 48px;
+    color: rgb(87, 255, 21);
+}
